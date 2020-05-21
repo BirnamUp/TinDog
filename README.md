@@ -1,2 +1,1 @@
-# TinDog
-HTML and CSS website practice
+TinDog Starting Files
